@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+!/Assets/DiscordAPI/DiscordAPI~/DiscordAPILibrary.sln
+!/Assets/DiscordAPI/DiscordAPI~/DiscordAPILibrary/DiscordAPILibrary.csproj
+!/Assets/DiscordAPI/DiscordAPI~/DiscordAPI/DiscordAPI.csproj
