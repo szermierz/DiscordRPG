@@ -1,0 +1,11 @@
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPI\bin\Debug\DiscordAPI.dll
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPI\bin\Debug\DiscordAPI.pdb
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPI\obj\Debug\DiscordAPI.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPI\obj\Debug\DiscordAPI.dll
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPI\obj\Debug\DiscordAPI.pdb
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPI\bin\Debug\DiscordAPI.dll
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPI\bin\Debug\DiscordAPI.pdb
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPI\obj\Debug\DiscordAPI.csproj.CoreCompileInputs.cache
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPI\obj\Debug\DiscordAPI.dll
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPI\obj\Debug\DiscordAPI.pdb
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPI\obj\Debug\DiscordAPI.csprojAssemblyReference.cache

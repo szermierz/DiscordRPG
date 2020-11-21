@@ -1,0 +1,14 @@
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPILibrary\bin\Debug\DiscordAPILibrary.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPILibrary\bin\Debug\DiscordAPILibrary.exe
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPILibrary\bin\Debug\DiscordAPILibrary.pdb
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPILibrary\obj\Debug\DiscordAPILibrary.csprojAssemblyReference.cache
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPILibrary\obj\Debug\DiscordAPILibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPILibrary\obj\Debug\DiscordAPILibrary.exe
+C:\Users\Kamil\Documents\Visual Studio 2017\Projects\DiscordAPILibrary\DiscordAPILibrary\obj\Debug\DiscordAPILibrary.pdb
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPILibrary\bin\Debug\DiscordAPILibrary.exe.config
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPILibrary\bin\Debug\DiscordAPILibrary.exe
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPILibrary\bin\Debug\DiscordAPILibrary.pdb
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPILibrary\obj\Debug\DiscordAPILibrary.csproj.CoreCompileInputs.cache
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPILibrary\obj\Debug\DiscordAPILibrary.exe
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPILibrary\obj\Debug\DiscordAPILibrary.pdb
+E:\UnityProjects\DiscordRPG\Assets\DiscordAPI\DiscordAPI~\DiscordAPILibrary\obj\Debug\DiscordAPILibrary.csprojAssemblyReference.cache
