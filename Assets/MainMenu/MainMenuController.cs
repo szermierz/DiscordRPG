@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class MainMenuController : MonoBehaviour
+public class MainMenuController : MonoBehaviourEx
 {
     #region State
 
@@ -16,6 +16,8 @@ public class MainMenuController : MonoBehaviour
         SelectChannel = 0b10000,
     }
 
+    private int m_changingStateDepth = 0;
+
     private ControllerState m_state = ControllerState.NotLogged;
     private ControllerState State
     {
@@ -25,10 +27,18 @@ public class MainMenuController : MonoBehaviour
             if (value == m_state)
                 return;
 
+            ++m_changingStateDepth;
+
             var previos = m_state;
             m_state = value;
 
             OnStateChanged(previos, m_state);
+
+            --m_changingStateDepth;
+
+            if(0 == m_changingStateDepth)
+                Debug.Log($"MainMenu state: {m_state}");
+
             RefreshMainMenu();
         }
     }
