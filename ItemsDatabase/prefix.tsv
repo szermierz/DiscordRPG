@@ -1,0 +1,72 @@
+PrefixName	StatName	StatValue
+Fiery	elemental.fire	2|4
+Blazing	elemental.fire	1|6
+Scorching	elemental.fire	3|6
+Smoldering	elemental.fire	1|3
+Heated	elemental.fire	0|4
+Moisted	elemental.water	0|4
+Misted	elemental.water	1|6
+Wet	elemental.water	1|3
+Rainswept	elemental.water	3|6
+Pluvial	elemental.water	2|3
+Murky	elemental.water	2|4
+Electrical	elemental.nature	
+Voltaic	elemental.nature	
+Charged	elemental.nature	
+Magnetic	elemental.nature	
+Overloaded	elemental.nature	
+Conductive	elemental.nature	
+Horrid	magic.dark	
+Grim	magic.dark	
+Threatening	magic.dark	
+Gloomy	magic.dark	
+Gruesome	magic.dark	
+Ominous	magic.dark	
+Mystic	magic.arcane	
+Occult	magic.arcane	
+Arcane	magic.arcane	
+Esoteric	magic.arcane	
+Cabalistic	magic.arcane	
+Mysterious	magic.arcane	
+Pure	magic.harmony	
+Holy	magic.harmony	
+Bright	magic.harmony	
+Blessed	magic.harmony	
+Devine	magic.harmony	
+Glorified	magic.harmony	
+Shattering	physical.swing	
+Unbalanced	physical.swing	
+Exasperative	physical.swing	
+Peeving	physical.swing	
+Deranged	physical.swing	
+Frenzied	physical.swing	
+Angered	physical.bash	
+Furious	physical.bash	
+Rageing	physical.bash	
+Fierce	physical.bash	
+Wrathful	physical.bash	
+infiuriated	physical.bash	
+Maddened	physical.hit	
+Possesed	physical.hit	
+Irritating	physical.hit	
+Provocative	physical.hit	
+Unhinged	physical.hit	
+Vexed	physical.hit	
+Distractive	ranged.throw	
+Disturbing	ranged.throw	
+Rankled	ranged.throw	
+Nettling	ranged.throw	
+Irking	ranged.throw	
+Foolish	ranged.throw	
+Precise	ranged.shoot	
+Rigid	ranged.shoot	
+Sharp	ranged.shoot	
+Unerring	ranged.shoot	
+Just	ranged.shoot	
+True	ranged.shoot	
+Rousing	ranged.volley	
+Sweeping	ranged.volley	
+Rigorous	ranged.volley	
+Faultless	ranged.volley	
+Dull	ranged.volley	
+Powerful	ranged.volley	
